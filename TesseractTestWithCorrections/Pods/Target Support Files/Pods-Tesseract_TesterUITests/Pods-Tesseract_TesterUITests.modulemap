@@ -1,0 +1,6 @@
+framework module Pods_Tesseract_TesterUITests {
+  umbrella header "Pods-Tesseract_TesterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
