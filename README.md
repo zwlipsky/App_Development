@@ -1,3 +1,3 @@
 # App_Development
 
-Hello enginerds and biolosers! This is the fellowship of the app, led by Guyndalf the White.
+Hello bioengineers of the Binghamton University! This is a totally professional, legit app development group for Prof. Guy German's scientific encyclopedia of cosmetics ingredients.
